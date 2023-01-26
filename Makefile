@@ -18,5 +18,5 @@ main:  main.cpp
 
 # runs for "make test"
 test: test.cpp
-	$(CXX) $(CXXFLAGS) test.cpp -o test
+    $(CXX) $(CXXFLAGS) test.cpp -o test
 
